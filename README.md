@@ -71,5 +71,5 @@ npm start
 
 ## 👤 Autor
 
-Desenvolvido por **Lucas Xavier**
-[LinkedIn](https://www.linkedin.com/in/lucas-xavier-89a44120b/) | [GitHub](https://github.com/LucasXvr)
+Desenvolvido por **Yosuke Kuroki**
+[LinkedIn](https://www.linkedin.com/in/yosuke-kuroki
